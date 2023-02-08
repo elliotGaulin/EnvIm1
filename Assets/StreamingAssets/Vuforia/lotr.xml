@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="08-frodon" size="0.100000 0.063084" />
+    <ImageTarget name="07-legolas" size="0.100000 0.063084" />
+    <ImageTarget name="06-golum" size="0.100000 0.063084" />
+    <ImageTarget name="05-aragorn" size="0.100000 0.063084" />
+    <ImageTarget name="04-galadrielle" size="0.100000 0.063084" />
+    <ImageTarget name="03-arwen" size="0.100000 0.063084" />
+    <ImageTarget name="02-gandalf" size="0.100000 0.063084" />
+    <ImageTarget name="01-gimli" size="0.100000 0.063084" />
+  </Tracking>
+</QCARConfig>
